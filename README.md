@@ -2,7 +2,7 @@
 
 # O projeto
 Projeto desenvolvido durante o curso "CSS Avançado Posicionamento" da Origamid - https://www.origamid.com/curso/css-avancado-posicionamento/ -
-focado em desenvolver uma página home para um site de uma marca de café, utilizando o Bootstrap.
+focado em desenvolver uma página home para um site de uma marca de café, utilizando o Bootstrap (especificamente as partes de Grid, Container e Posicionamento).
 
 # Tecnologias utilizadas
 - HTML
