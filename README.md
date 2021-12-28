@@ -7,7 +7,7 @@ focado em desenvolver uma página home para um site de uma marca de café, utili
 # Tecnologias utilizadas
 - HTML
 - CSS
-- BOOTSTRAP
+- BOOTSTRAP v4.0.0
 
 # Como executar
 ```bash
